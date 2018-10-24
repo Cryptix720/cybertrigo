@@ -54,15 +54,15 @@
   "dependencies": {
     "dom-storage": "^2.0.2",
     "feedme": "^1.0.0",
-    "react": "^15.4.2",
-    "react-dom": "^15.4.2",
-    "react-mdl": "^1.9.0",
-    "react-redux": "^5.0.2",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-mdl": "^1.10.3",
+    "react-redux": "^5.0.5",
     "redux": "^3.7.1",
     "redux-actions": "^2.0.3",
     "redux-promise": "^0.5.3",
     "redux-thunk": "^2.2.0",
-    "request": "^2.81.0",
+    "request": "^2.84.0",
     "sha1": "^1.1.1",
     "whatwg-fetch": "^2.0.3"
   }
